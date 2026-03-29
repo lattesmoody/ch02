@@ -1,1 +1,4 @@
 /ch02_env
+.env
+make_fernet.py
+init_db.sql
